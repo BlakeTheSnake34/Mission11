@@ -19,3 +19,4 @@ obj/
 
 # ASP.NET local settings
 appsettings.Development.json
+.DS_Store
